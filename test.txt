@@ -1,4 +1,4 @@
-now we are testing merge conflict
+solving conflict
 
 
 
@@ -6,3 +6,4 @@ Hello this is a example txt file.
 this file is created to check or work on branc feature
 
 thank you
+
